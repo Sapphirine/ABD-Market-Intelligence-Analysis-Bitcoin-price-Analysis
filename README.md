@@ -2,7 +2,7 @@
 EECS 6895 course project
 Here's the introduction of the files in the code folder based on their functions.
 1. Data Preparation
-Using API to gather data:
+Using API to gather data:\n
 blockchain_api.py: using API of blockchain.info
 coindesk_api.py: using API of coindesk.com
 Using web crawling to gather data:
